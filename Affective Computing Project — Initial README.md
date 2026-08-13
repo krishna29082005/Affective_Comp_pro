@@ -53,14 +53,14 @@ The project structure may be modified as development progresses.
 
 ## 👥 Team Members
 
-| Name | Role |
-|------|------|
-| Member 1 | Krishna |
-| Member 2 | Tarun |
-| Member 3 | Ayush |
-| Member 4 | Nikhil |
-| Member 5 | Shreyansh |
-| Member 6 | Krish |
+|   Name    | Role      |
+|  ------   |------     |
+| Krishna   |   TBD     |
+| Tarun     |   TBD     |
+| Ayush     |   TBD     |
+| Nikhil    |   TBD     |
+| Shreyansh |   TBD     |   
+| Krish     |   TBD     |
 
 ## 📅 Project Status
 
