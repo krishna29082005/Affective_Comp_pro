@@ -55,10 +55,12 @@ The project structure may be modified as development progresses.
 
 | Name | Role |
 |------|------|
-| Member 1 | TBD |
-| Member 2 | TBD |
-| Member 3 | TBD |
-| Member 4 | TBD |
+| Member 1 | Krishna |
+| Member 2 | Tarun |
+| Member 3 | Ayush |
+| Member 4 | Nikhil |
+| Member 5 | Shreyansh |
+| Member 6 | Krish |
 
 ## 📅 Project Status
 
